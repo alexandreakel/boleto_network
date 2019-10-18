@@ -1,5 +1,4 @@
 # boleto_network
 Aula Hyperledger Composer
 
-Alexandre Akel
-Eduardo Salvatore
+Alexandre Akel e Eduardo Salvatore
